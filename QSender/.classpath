@@ -35,5 +35,6 @@
 	<classpathentry kind="lib" path="C:/Oracle/Middleware/Oracle_Home/wlserver/server/lib/wls-api-part.jar"/>
 	<classpathentry kind="lib" path="C:/Oracle/Middleware/Oracle_Home/wlserver/server/lib/wlthint3client.jar"/>
 	<classpathentry kind="lib" path="C:/Oracle/Middleware/Oracle_Home/wlserver/server/lib/wlw-langx.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

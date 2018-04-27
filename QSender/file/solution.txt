@@ -1,0 +1,13 @@
+$('.fancybox-iframe').contents().find('#button').click(function(){
+             // do something
+             ...
+
+             // reload parent window and close fancybox
+             window.parent.location.reload();
+             window.parent.$.fancybox.close();
+         }); 
+       }
+jQuery('.headerPopUp.quickPreview').click(function(){
+alert('hi');
+window.parent.location.reload();
+})
